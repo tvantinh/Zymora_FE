@@ -18,13 +18,13 @@ import { FooterComponent } from './components/footer/feature/footer.component';
   standalone: true,
   imports: [
     RouterModule,
-    // DatePipe,
+    DatePipe,
     HeaderComponent,
     FooterComponent,
     NzButtonModule,
     NzIconModule,
     CommonModule,
-    // NzToolTipModule,
+    NzToolTipModule,
   ],
   template: `
     <div class="tw-container">
