@@ -40,5 +40,9 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.5.2"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/tvantinh/Zymora_FE.git",
+  "author": "tinhbe <98801099+tvantinh@users.noreply.github.com>",
+  "license": "MIT"
 }
